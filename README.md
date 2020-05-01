@@ -15,5 +15,4 @@ Json View: Esta extension nos permite leer el Json de una manera mas simple
 Enlace: [https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc]
 
 
-### `npm run build`
 
